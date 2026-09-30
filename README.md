@@ -1,2 +1,72 @@
-# codealpha_task2
-Sales Prediction using Python and Machine Learning. This project uses the Advertising dataset to analyze the impact of TV, Radio, and Newspaper advertising on sales. It includes data preprocessing, EDA, visualization, correlation analysis, Linear Regression, model evaluation, and sales prediction for new advertising budgets.
+# 📊 Sales Prediction Using Python
+
+## 📌 Overview
+
+This project predicts **Sales** based on advertising expenditure across **TV, Radio, and Newspaper** channels.
+
+The project uses **Multiple Linear Regression** to analyze the relationship between advertising expenditure and sales and to predict sales for new advertising budgets.
+
+---
+
+## 🎯 Objectives
+
+- Analyze the relationship between advertising expenditure and sales
+- Perform data cleaning and preprocessing
+- Perform Exploratory Data Analysis (EDA)
+- Visualize advertising and sales relationships
+- Build a Multiple Linear Regression model
+- Evaluate model performance
+- Analyze advertising channel impact
+- Predict sales for new advertising budgets
+
+---
+
+## 📂 Dataset
+
+The project uses the **Advertising.csv** dataset containing **200 records**.
+
+| Feature | Description |
+|---|---|
+| `TV` | TV advertising expenditure |
+| `Radio` | Radio advertising expenditure |
+| `Newspaper` | Newspaper advertising expenditure |
+| `Sales` | Target variable |
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Dataset
+   ↓
+Data Loading
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Correlation Analysis
+   ↓
+Feature Selection
+   ↓
+Train-Test Split
+   ↓
+Linear Regression
+   ↓
+Sales Prediction
+   ↓
+Model Evaluation
+   ↓
+Advertising Impact Analysis
