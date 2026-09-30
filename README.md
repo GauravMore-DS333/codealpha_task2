@@ -43,5 +43,3 @@ The project uses the **Advertising.csv** dataset containing **200 records**.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-
----nalysis
